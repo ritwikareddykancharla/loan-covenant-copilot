@@ -54,15 +54,6 @@ The **Loan Market Association (LMA)** provides standardized loan documentation a
 ---
 
 ## ✨ Core Features
-
-![Image](https://www.crisil.com/content/dam/crisil/our-businesses/global-research-and-risk-solutions/integrated-credit-risk/covenant-monitoring.png)
-
-![Image](https://www.analytics4banks.com/file-asset/baselcompliance?v=1)
-
-![Image](https://static.wixstatic.com/media/4e5de9_afa8b1a2f4394d47aa5732e930080dc4~mv2.png/v1/fill/w_1920%2Ch_1080%2Cal_c/4e5de9_afa8b1a2f4394d47aa5732e930080dc4~mv2.png)
-
-![Image](https://cdn.prod.website-files.com/5e1ba99819c05ce6f1978921/640a48230fb36a7395d26587_Platform%20Bank%20Covenent.png)
-
 ---
 
 ### 1️⃣ AI Covenant Extraction (Document Intelligence)
@@ -219,41 +210,6 @@ This is your ✨ wow ✨ moment in the demo.
 * Works across jurisdictions
 * LMA-aligned documentation
 * Multi-loan portfolio management
-
----
-
-## 🏆 Why CovenantIQ Wins
-
-* Solves a **real, high-risk industry pain point**
-* Immediately understandable by non-technical judges
-* Clear efficiency + risk reduction
-* Aligns perfectly with **Keeping Loans on Track**
-* Feels like a product banks would actually buy
-
----
-
-## 🚀 Built With
-
-* **Google Antigravity**
-
-  * Multimodal document understanding
-  * Agent-based reasoning
-  * Fast, interactive responses
-* Modern web UI (desktop-first)
-* Secure data handling principles
-
----
-
-## 🎬 Demo Walkthrough (3 Minutes)
-
-1. Upload a loan agreement
-2. Show extracted covenants
-3. Upload financials
-4. Trigger a near-breach alert
-5. Ask: *“Are we compliant?”*
-6. Generate compliance report
-
-Judges = 😮 → 💳 → 🏆
 
 ---
 
